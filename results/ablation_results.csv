@@ -1,6 +1,6 @@
-setting,MATH,SVAMP,MultiArith,macro_average
-Full SG-MAD,74.00,92.00,96.00,87.33
-Without Reasoning State Constructor,50.00,84.00,90.00,74.67
-Without Consensus Validation Controller,72.00,90.00,98.00,86.67
-Without Target-Guided Verification,70.00,90.00,90.00,83.33
-Without Anonymous Context Builder,66.00,90.00,92.00,82.67
+setting,sample_count,MATH,SVAMP,MultiArith,macro_average
+Full SG-MAD,200,66.00,91.50,97.00,84.83
+Without Reasoning State Constructor,200,51.00,88.50,94.00,77.83
+Without Consensus Validation Controller,200,63.00,92.50,93.50,83.00
+Without Target-Guided Verification,200,60.00,90.50,94.50,81.67
+Without Anonymous Context Builder,200,58.50,91.00,95.50,81.67
